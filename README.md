@@ -1,3 +1,13 @@
+# ipwndfu a10 linux that uses python2
+
+alr people this fork is for A10 and needs python2 , if you ever had issues putting A10 on pwned dfu and use sigchks than this might help you 
+
+my suggestion that i tested and works , is using this fork with Linux Mint 19.1(the de doesent matter , i used xfce)
+otherwise other distros didnt works
+
+
+
+
 ## How to ?
 
 use the fork
